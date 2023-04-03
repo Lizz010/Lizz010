@@ -1,5 +1,5 @@
 <!--Title-->
-<h1 align="center">Hi there humans 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <!--firts container-->
 	<div align="center">
 		<img src="https://media.giphy.com/media/11Q76I0QLcYGuk/giphy.gif" align="center" width="40%">
