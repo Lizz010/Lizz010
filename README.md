@@ -2,16 +2,16 @@
 <h1 align="center">Hi there 👋</h1>
 <!--firts container-->
 	<div align="center">
-		<img src="https://media.giphy.com/media/11Q76I0QLcYGuk/giphy.gif" align="center" width="40%">
+		<img src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" align="center" width="40%">
 		<h2 align="center">I'm Lizz</h2>
 		<h3>Front End Developer, learning something new every day,<br>currently learning javascript and angular, be welcome! :D</h3>
    </div>
    <hr>
    <div>
-	 <a href="">
+	 <a href=""> 
 	 </a>
    </div>
-
+<!--https://media.giphy.com/media/11Q76I0QLcYGuk/giphy.gif-->
 
 
 
